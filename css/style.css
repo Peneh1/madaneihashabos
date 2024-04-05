@@ -8661,7 +8661,16 @@ textarea.form-control-lg {
 .logo {
   font-size: 24px;
   color: #fff;
-  font-weight: 700; }
+  font-weight: 700;
+  width: 10vw;
+ }
+ @media (max-width: 767.98px) {
+  .logo {
+    width: 20vw; 
+    margin: 3vw;
+  }
+   }
+
   .logo:hover {
     color: #fff;
     opacity: .8; }
@@ -8684,7 +8693,7 @@ textarea.form-control-lg {
     .site-nav .site-navigation .site-menu > li {
       display: inline-block; }
       .site-nav .site-navigation .site-menu > li > a {
-        font-size: 14px;
+        font-size: 24px;
         padding: 10px 10px;
         display: inline-block;
         text-decoration: none !important;
@@ -9945,3 +9954,12 @@ blockquote {
     color: rgba(255, 255, 255, 0.5); }
     .copyright a:hover {
       color: #fff; }
+
+  @font-face {
+    font-family: LenovoBold;
+    src:local("/fonts/lenova/lenovoBold.ttf");
+}
+    
+.y-font {
+  font-family: LenovoBold;
+}
