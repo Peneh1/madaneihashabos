@@ -9,7 +9,7 @@
 	<link rel="shortcut icon" href="favicon.png">
 
 	<meta name="description" content="Madanei Hashabbos, plays a critical role in today’s Heimish homes in Isreal for those, who despite their best efforts, only manage to make Shabbos because of the actions of this organization" />
-	<meta name="keywords" content="Madanei Hashabbos" />
+	<meta name="keywords" content="Madanei Hashabbos"/>
 	
 	<link rel="preconnect" href="https://fonts.gstatic.com">
 	<link href="https://fonts.googleapis.com/css2?family=Roboto&family=Work+Sans:wght@400;700&display=swap" rel="stylesheet">
